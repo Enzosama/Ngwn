@@ -1,7 +1,7 @@
-import { r as t, j as e } from "./app-CYH7DoRt.js";
+import { j as e, r as t } from "./app-CYH7DoRt.js";
 /* empty css                   */ import {
-  e as s,
   f as l,
+  e as s,
 } from "./index-CFFy2gO5.js";
 const a = ({
     contentOut: s,
@@ -84,6 +84,7 @@ const a = ({
       [T, F] = t.useState(!0),
       [E, $] = t.useState(!1),
       L = (t, e) => {
+        if (t && t.includes("\n")) return t.split("\n", 2);
         const s = !O(t),
           l = t.substring(0, 1e3),
           a = s ? (e ? 473 : 575) : e ? 190 : 223,
@@ -262,7 +263,7 @@ const a = ({
       H = e.jsxs("p", {
         className: "mt-4 text-right lg:mt-8",
         children: [
-          r,
+          n,
           e.jsx("br", {}),
           e.jsx("span", { className: "font-semibold", children: i }),
         ],
@@ -283,7 +284,7 @@ const a = ({
                 className: "lg:mb-4",
                 children: e.jsx("em", {
                   className: "font-semibold",
-                  children: n,
+                  children: r,
                 }),
               }),
               e.jsxs("div", {
