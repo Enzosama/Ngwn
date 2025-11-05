@@ -8,9 +8,12 @@ function i() {
   const letterData = {
       "note": "Pún ké của Ngwn 😍",
       "letter_title": "Love letter",
-      "to": "Gửi ngàn nụ hôn đến Pún ké của Ngwn. ILoveU♥",
-      "text_area": "Chúc mừng sinh nhật em yêu 🎂\nHôm nay là ngày đặc biệt nhất vì thế giới này đã có thêm một người làm trái tim anh rung rinh mỗi ngày. Anh thật sự biết ơn vì em đã đến bên anh, cùng chia sẻ tiếng cười, những lần giận dỗi vu vơ và cả những khoảnh khắc ấm áp mà chẳng cần lời nói nào cũng hiểu nhau. Em chính là lý do khiến những ngày bình thường của anh trở nên đáng nhớ hơn, vui hơn và ý nghĩa hơn. Anh mong tuổi mới của em sẽ thật nhiều niềm vui, ít muộn phiền, có thật nhiều trải nghiệm tuyệt vời và lúc nào cũng giữ nụ cười tỏa nắng trên môi. Anh hứa sẽ luôn ở đây, vừa là người yêu, vừa là bạn đồng hành cùng em đi qua mọi điều, dù nhỏ hay lớn. Happy birthday cô gái bé nhỏ của anh, chúc em tuổi mới chill hơn, xinh hơn, và yêu anh nhiều hơn nữa nha 🥰\n\n",
-      "form": "Ngwn",
+      "to": "Gửi người tui thương:3",
+      "text_area": "Tui đã nhiều lần ngồi trước tờ giấy trắng, cố gắng tìm cách diễn tả cho em hiểu được rằng em quan trọng với tui đến nhường nào. Thế nhưng, mỗi khi bắt đầu viết, dường như mọi ngôn từ đều trở nên thật nhỏ bé nhường nào trước tình yêu tui dành cho em.
+Tui hong có nhìu lời hoa mỹ để nói, nhưng có những điều tựa như dòng chảy chậm, lúc nào cũng hiện hữu. Tình cảm tui dành cho em không phải là những gì rực rỡ, mà là cái yên bình giữa nhịp đời tấp nập, xô bồ. Có em, mọi thứ đều trở nên ngọt ngào, tốt đẹp và trọn vẹn dù chỉ là những khoảnh khắc nhỏ nhất.
+Em luôn bảo tui rằng nếu có gì bất mãn, khó chịu về em thì tui phải chia sẻ với em luôn để em sửa, ngược lại tui mong em cũng sẽ làm vậy nếu tui không mảy may làm em cảm thấy chíu khọ, ý nà mong em có thể thẳng thắn chia sẻ cảm xúc của em cho tui vì tui chỉ muốn yêu em như cách em muốn, em vui thì tui cũng vui lâyyy. Nói chung là tui chỉ muốn em cảm thấy vui khi ở bên tui thui nên em phải hứa chia sẻ với tui những lúc em bất mãn đấy nhíe. Và em hãy nhớ rằng, kể cả khi em kể cho tui về những bóng tối trong cuộc đời em thì tui vẫn sẽ nhìn em như ánh mặt trời:3
+Tui không biết tương lai sẽ ra sao nhưng tui rất yêu em và tui chỉ mong ông trời viết lên cái kết đẹp cho tui, cho em, cho đôi mình. Nắng cũng đã đi cùng nhau, mưa cũng đã ướt, chỉ mong khi trời quang mây tạnh ta vẫn đi cùng nhau, em vẫn luôn ở đấy và ôm tui đi hết quãng đường này🫶🏻",
+      "form": "Người iêu cụa em/n kimngwn",
       "music": "1719299446.mp3"
   };
 
